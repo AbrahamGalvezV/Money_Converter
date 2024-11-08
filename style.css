@@ -66,6 +66,8 @@ body:before {
 
 .transform__input:hover {
     box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+    transition: 0.3s ease-in-out;
+
 }
 
 .transform__input::placeholder {
@@ -79,6 +81,8 @@ body:before {
 
 .transform__item {
     background-color: rgba(225, 225, 225, 0.195);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transition: 0.3s ease-in-out;
     min-height: 120px;
     width: 400px;
     font-size: 24px;
@@ -89,6 +93,8 @@ body:before {
 
 .transform__item:hover {
     box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+    transition: 0.3s ease-in-out;
+
 }
 
 .transform__item__title {
@@ -105,6 +111,7 @@ body:before {
 
 .transform__select {
     background-color: rgba(51, 51, 51, 0.265);
+    transition: 0.3s ease-in-out;
     border-radius: 10px;
     padding: 0 6px;
     max-height: 36px;
@@ -113,4 +120,6 @@ body:before {
 
 .transform__select:hover {
     box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+    transition: 0.3s ease-in-out;
+
 }
