@@ -64,6 +64,10 @@ body:before {
     width: 85%;
 }
 
+.transform__input:hover {
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+}
+
 .transform__input::placeholder {
     color: rgba(0, 0, 0, 0.816);
 }
@@ -83,6 +87,10 @@ body:before {
     border-radius: 20px;
 }
 
+.transform__item:hover {
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+}
+
 .transform__item__title {
     margin-bottom: 10px;
     
@@ -100,5 +108,9 @@ body:before {
     border-radius: 10px;
     padding: 0 6px;
     max-height: 36px;
+    
+}
 
+.transform__select:hover {
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
 }
