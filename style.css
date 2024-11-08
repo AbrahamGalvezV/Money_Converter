@@ -64,10 +64,14 @@ body:before {
     width: 85%;
 }
 
+.transform__input:focus {
+    outline: none;
+    border: 2px solid rgba(66, 66, 66, 0.84);
+}
+
 .transform__input:hover {
     box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
     transition: 0.3s ease-in-out;
-
 }
 
 .transform__input::placeholder {
