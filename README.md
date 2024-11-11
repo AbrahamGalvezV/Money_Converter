@@ -1,4 +1,4 @@
-# 🌡️ Conversor de monedas 🌡️
+# 🪙 Conversor de monedas 🪙
 
 ## 📜 Sobre el proyecto 
 
@@ -41,14 +41,6 @@ const wones = Math.floor(number * 1462.10);
 
 He decidido usar la condicional if else para esta función
 ![Imagen de la aplicación convirtiendo de Celsius a Fahrenheit](./img/ifEls.png)
-
-## 🌡️ Ejemplo de Conversión de temperatura 
-
-![Imagen de la aplicación convirtiendo de Celsius a Fahrenheit](./img/deCaF.png)
-
-Si se selecciona Celsius como unidad de origen y Fahrenheit como unidad de destino, la función calcula el equivalente en Fahrenheit utilizando la fórmula de conversión.
-
-![Imagen del código que convierte de Celsius a Fahrenheit](./img/deCaFcode.png)
 
 ## 💻 ¿Quieres comprobar esta función? 
 
