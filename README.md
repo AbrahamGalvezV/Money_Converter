@@ -44,7 +44,7 @@ He decidido usar la condicional if else para esta función
 
 ## 💻 ¿Quieres comprobar esta función? 
 
-- [Visita el Conversor de Temperatura](https://abrahamgalvezv.github.io/Temperature_converter/)
+- [Visita el Conversor de monedas](https://abrahamgalvezv.github.io/Money_Converter/)
 - Clona este repositorio en tu equipo y comprueba cómo está creado
 - Implementa esta función en tu proyecto 
 
