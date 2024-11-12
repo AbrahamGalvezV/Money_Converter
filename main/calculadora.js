@@ -1,4 +1,4 @@
-function convertTemperature() {
+function getExchangeRate() {
   const number = parseFloat(document.getElementById("number").value);
   const value1 = document.getElementById("selectorValue1").value;
   const value2 = document.getElementById("selectorValue2").value;
@@ -221,8 +221,8 @@ function convertTemperature() {
 // Asignamos los eventos a los selectores y al input
 document
   .getElementById("selectorValue1")
-  .addEventListener("change", convertTemperature);
+  .addEventListener("change", getExchangeRate);
 document
   .getElementById("selectorValue2")
-  .addEventListener("change", convertTemperature);
-document.getElementById("number").addEventListener("input", convertTemperature);
+  .addEventListener("change", getExchangeRate);
+document.getElementById("number").addEventListener("input", getExchangeRate);
