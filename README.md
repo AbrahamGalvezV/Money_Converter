@@ -53,7 +53,7 @@ He decidido usar la condicional if else para esta función
 <a href="mailto:abraham.galvez.vives@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-C6362C?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" target="_blank" />
 </a>
-<a href="https://www.linkedin.com/in/abraham-g%C3%A1lvez-vives-25ab532bb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/abraham-galvez-vives/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </p>
 
  
